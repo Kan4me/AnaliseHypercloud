@@ -31,7 +31,7 @@ a) Modelo Esquema Estrela; e <br>
 b) Modelo Esquema Floco de neve.
 
 
-<i>6. O que significa Surrogate Key? </i> 
+<i>6. O que significa Surrogate Key? </i> <br>
 Surrogate Key é uma chave artificial que relaciona a Primary Key da Tabela Dimensão com a entrada da Tabela Fato, sendo atualizada a cada nova entrada na Tabela Fato, com o objetivo de garantir a unicidade da entrada e relações entre as tabelas utilizadas.
 
 
