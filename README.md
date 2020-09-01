@@ -46,4 +46,7 @@ São ferramentas de filtro de gráficos que permitem o maior detalhamento das va
 
 Drill Down: Ferramenta que apresenta os dados com todos seus níveis de detalhes, como se fosse escavar para obter uma informação precisa e/ou pontual. Exemplo: vendas de bicicleta no ano de 2019 da marca Kona da cor Prata, sendo que na base de dados possui as variáveis marca (Caloi, Kona, Soul e Specialized), cor (Prata, Preto, Vermelho e Amarelo) e ano de venda (de 2010 a 2019). <br>
 
-Drill Up: Ferramenta que permite retornar um nível de detalhamento dos dados, pois na análise de interesse pode acontecer de precisar somente de um nível de detalhamento mas na hora de gerar o gráfico, solicitou dois níveis e será necessário retornar um nível. Exemplo: considerando a base de dados citada acima, seria obter o número de vendas de bicicleta no ano de 2019 da marca Kona.
+Drill Up: Ferramenta que permite retornar um nível de detalhamento dos dados, pois na análise de interesse pode acontecer de precisar somente de um nível de detalhamento mas na hora de gerar o gráfico, solicitou dois níveis e será necessário retornar um nível. Exemplo: considerando a base de dados citada acima, seria obter o número de vendas de bicicleta no ano de 2019 da marca Kona. <br>
+
+
+A modelagem projetada segue o Modelo Esquema Floco de Neve.
